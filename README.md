@@ -13,12 +13,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg"  width="80" height="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"  width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg"  width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"  width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"  width="60" height="60"/>
-  <img src="https://vectorwiki.com/images/wdpFz__qdrant.svg" alt="qdrant" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" alt="spark" width="80" height="40"/>
 </p>
 
 ---
@@ -30,11 +27,11 @@
 
 ### 🛠 Tech Stack:
 - **Languages**: C++, Python, SQL  
-- **Backend Frameworks**: FastAPI, Flask  
+- **Backend Frameworks**: FastAPI 
 - **AI/ML/NLP**: LLMs, RAG, AutoML, Transformers, Prompt Engineering, Deep Learning  
-- **Databases**: MongoDB, Qdrant, Elasticsearch, Pinecone  
+- **Databases**: MongoDB, Qdrant  
 - **Libraries**: Pandas, NumPy, Pydantic, Faiss, ColBERT, BM25, Scikit-learn, LiteLLM  
-- **Others**: Git, Docker, Linux, Jenkins, Logging Systems, Apache Spark  
+- **Others**: Git, Docker, Linux, Logging Systems
 
 ---
 
