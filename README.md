@@ -20,18 +20,18 @@
 
 ---
 
-|<img src="https://github-readme-stats.vercel.app/api?username=rexa0310&show_icons=true&theme=react"> |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rexa0310&theme=react)](https://git.io/streak-stats) |
+|<img src="https://github-readme-stats.vercel.app/api?username=rexa0310&show_icons=true&theme=react"> |[![GitHub Streak](https://streak-stats.demolab.com/?user=rexa0310)](https://git.io/streak-stats) |
 |---|---|
 
 ---
 
 ### 🛠 Tech Stack:
-- **Languages**: C++, Python, SQL  
-- **Backend Frameworks**: FastAPI 
-- **AI/ML/NLP**: LLMs, RAG, AutoML, Transformers, Prompt Engineering, Deep Learning  
+- **Languages**: Python, NoSQL  
+- **Backend Frameworks**: FastAPI, OOPS 
+- **AI/ML/NLP**: LLMs, RAG, AutoML, Agentic AI, Vector Daatabases,Transformers, Prompt Engineering, Deep Learning  
 - **Databases**: MongoDB, Qdrant  
 - **Libraries**: Pandas, NumPy, Pydantic, Faiss, ColBERT, BM25, Scikit-learn, LiteLLM  
-- **Others**: Git, Docker, Linux, Logging Systems
+- **Others**: Git, Docker, Linux, Logging Systems, Pycharm
 
 ---
 
