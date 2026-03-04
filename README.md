@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Multi-Agent Systems and cost reduction in AI applications  
 - 🌱 I’m currently learning **Advanced AI Architectures** and **Scalable Backend Systems**  
 - 👯 I’m looking to collaborate on AI, NLP, and RAG-related projects  
-- 💬 Ask me about **LLMs, Prompt Engineering, and Backend Development**  
+- 💬 Ask me about **LLMs, Prompt Engineering, Context Engineering, Multi Agent Systems and Backend Development**  
 - 📫 How to reach me: **mayankgoyal0310@gmail.com**  
 
 <p align="center">
