@@ -27,11 +27,11 @@
 
 ### 🛠 Tech Stack:
 - **Languages**: Python, NoSQL  
-- **Backend Frameworks**: FastAPI, OOPS 
-- **AI/ML/NLP**: LLMs, RAG, AutoML, Agentic AI, Vector Databases, Transformers, NLP, Prompt Engineering, Deep Learning  
-- **Databases**: MongoDB, Qdrant  
+- **Backend Frameworks**: FastAPI, OOPS, Flask 
+- **AI/ML/NLP**: LLMs, RAG, AutoML, Agentic AI, Vector Databases, Transformers, NLP, Prompt Engineering, Deep Learning, Context Engineering, Multi Agent Systems  
+- **Databases**: MongoDB, Qdrant, Vespa  
 - **Libraries**: Pandas, NumPy, Pydantic, Faiss, ColBERT, BM25, Scikit-learn, LiteLLM  
-- **Others**: Git, Docker, Linux, Logging Systems, Pycharm
+- **Others**: Git, Docker, Linux, Logging Systems, Pycharm, Co-Pilot
 
 ---
 
